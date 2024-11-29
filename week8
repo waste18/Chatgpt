@@ -1,0 +1,2 @@
+Prompt-1: python script that uses google translate library to translate a series of converstional text into english 
+In google collab type pip install googletrans==0.0-rc1 then paste the code which is generated for the above prompt
