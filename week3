@@ -1,0 +1,3 @@
+Write Python code for a GPT-2 chatbot using Hugging Face Transformers that maintains context and generates dynamic responses based on user inputs. Create a ChatBot class to handle context updates, use a text-generation pipeline, and generate responses without hardcoded replies. Demonstrate with predefined conversation history showing how the chatbot's responses evolve naturally.      
+Then in google collab type !pip install transformers torch                   
+then copy the code given in above and paste it in google collab and run it             
