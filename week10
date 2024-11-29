@@ -1,5 +1,6 @@
-( in image generator  )
+( In ScholarAI(Explore gpts->Scholar gpt))
 Prompt-1: Provide me the deep learning topic SVM ( Support vector machine) for research purpose     
-Prompt-2: Extend the introduction for the above topic                                                
+Prompt-2: Extend the introduction for the above topic    
+(If limit exeeded in the above ai do it in normal ai)
 Prompt-3:Provide me the datasets for the research. purpose, provide me the results with image   
 Prompt-4: Give me the conclusion for the above topic
