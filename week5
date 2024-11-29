@@ -1,0 +1,6 @@
+Prompt-1: Hey, please, provide me the list of the most common customer complaints in online e-commerce shop                                         
+Prompt-2:Keep it short, please. 3-5 bullet points max. Generate the key and the main recommendations for handling late or delayed delivery.  
+Now go to customsettings(Click on profile see custom settings)->Now Give order id in custom instructions box,scroll down then you will see a box with title how would you like chatgpt to respond there type any 1 issue what chatgpt have given for you after the prompt
+Then save
+Now open a fresh chat and firstly give order id
+Now give the issue which you have provided in the customsettings(This should give output similar to the output which is in the output of prompt)
